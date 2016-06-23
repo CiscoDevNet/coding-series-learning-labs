@@ -1,0 +1,3 @@
+g++ -o jsonParse main.cpp -Irapidjson/include -lcurl
+
+

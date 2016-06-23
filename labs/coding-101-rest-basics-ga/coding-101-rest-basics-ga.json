@@ -1,0 +1,62 @@
+{
+  "labId": "coding-101-rest-basics-ga",
+  "title": "Coding 101 - REST Basics",
+  "slug": "Learn the basics of how to use REST APIs. Use POSTMAN to test making REST API calls using the APIC-EM APIs.",
+  "time": 20,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+	{"title": "6.md"},
+	{"title": "7.md"},
+	{"title": "8.md"}
+  ],
+  "tags": [
+    {"title": "Coding"},
+    {"title": "REST"},
+    {"title": "Postman"},
+    {"title": "APIC-EM"},
+    {"title": "JSON"},
+    {"title": "Sandbox"}
+  ],
+  "related": [
+    {
+      "labId": "coding-102-rest-python-ga",
+      "title": "Coding 102: Calling REST APIs from Python"
+    },
+    {
+      "labId": "coding-201-parsing-xml",
+      "title": "Coding 201: Parsing XML with Python"
+    },
+    {
+      "labId": "coding-202-parsing-json",
+      "title": "Coding 202: Parsing JSON with Python"
+    },
+    {
+      "labId": "coding-203-getting-input",
+      "title": "Coding 203: Getting input from a user using Python"
+    },
+    {
+      "labId": "coding-204-reading-a-file",
+      "title": "Coding 204: Reading from a file using Python"
+    },
+    {
+      "labId": "coding-205-writing-file-ga",
+      "title": "Coding 205: Writing data to a file using Python"
+    },
+    {
+      "labId": "coding-206-logging",
+      "title": "Coding 206: How to use the logging module in Python"
+    },
+    {
+      "labId": "coding-207-putting-it-together-ga",
+      "title": "Coding 207:Python - Putting it all together"
+    }
+  ],
+  "authors": [
+  	{"name": "", "email": ""}
+  ]
+}
