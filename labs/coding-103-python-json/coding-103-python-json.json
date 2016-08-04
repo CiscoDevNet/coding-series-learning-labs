@@ -1,7 +1,7 @@
 {
-  "labId": "coding-102-rest-python-ga",
-  "title": "Coding 102: Calling REST APIs from Python",
-  "slug": "Learn the basics of how to call and consume a REST API in Python",
+  "labId": "coding-103-python-json",
+  "title": "Coding 103: Learning how to code with Python",
+  "slug": "Learn the basics of how to write Python code and parse JSON",
   "time": 35,
   "byod": true,
   "files": [
@@ -17,13 +17,16 @@
     {"title": "Python"},
     {"title": "REST"},
     {"title": "APIC-EM"},
-    {"title": "JSON"},
-	{"title": "NEXT UI"}
+    {"title": "JSON"}
   ],
   "related": [
     {
       "labId": "coding-101-rest-basics-ga",
       "title": "Coding 101: REST API Basics"
+    },
+    {
+      "labId": "coding102-REST-python-ga",
+      "title": "Coding 102: Calling REST APIs from Python"
     },
     {
       "labId": "coding-201-parsing-xml",
