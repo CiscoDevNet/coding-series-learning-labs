@@ -1,6 +1,6 @@
 {
   "labId": "coding-101-rest-basics-ga",
-  "title": "Coding 101 - REST Basics",
+  "title": "Coding 101 - REST API Basics",
   "slug": "Learn the basics of how to use REST APIs. Use POSTMAN to test making REST API calls using the APIC-EM APIs.",
   "time": 20,
   "byod": true,
