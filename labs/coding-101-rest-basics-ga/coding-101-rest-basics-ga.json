@@ -1,7 +1,7 @@
 {
   "labId": "coding-101-rest-basics-ga",
-  "title": "Coding 101 - REST API Basics",
-  "slug": "Learn the basics of how to use REST APIs. Use POSTMAN to test making REST API calls using the APIC-EM APIs.",
+  "title": "Coding 101 - REST API Basics With APIC-EM",
+  "slug": "Learn the basics of REST APIs. Use POSTMAN and the API for the APIC-EM controller to learn how to make a REST API call.",
   "time": 20,
   "byod": true,
   "files": [
@@ -10,9 +10,9 @@
     {"title": "3.md"},
     {"title": "4.md"},
     {"title": "5.md"},
-	{"title": "6.md"},
-	{"title": "7.md"},
-	{"title": "8.md"}
+    {"title": "6.md"},
+    {"title": "7.md"},
+    {"title": "8.md"}
   ],
   "tags": [
     {"title": "Coding"},
@@ -57,6 +57,6 @@
     }
   ],
   "authors": [
-  	{"name": "brtiller", "email": "brtiller@cisco.com"}
+  	{"name": "mcampos", "email": "marcocam@cisco.com"}
   ]
 }
