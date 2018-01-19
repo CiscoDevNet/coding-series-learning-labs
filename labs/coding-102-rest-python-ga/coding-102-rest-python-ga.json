@@ -5,12 +5,18 @@
   "time": 35,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-	{"title": "6.md"}
+    {"title": "Step 1. Find the APIC-EM API Resources",
+     "file": "1.md"},
+    {"title": "Step 2. Make your first REST call from Python",
+     "file": "2.md"},
+    {"title": "Step 3. Getting Information About the Network",
+     "file": "3.md"},
+    {"title": "Step 4. Get Network Devices",
+     "file": "4.md"},
+    {"title": "Step 5. Build Network Topology",
+     "file": "5.md"},
+	  {"title": "Step 6. Build Network Topology and Graphical Display",
+     "file": "6.md"}
   ],
   "tags": [
     {"title": "Coding"},
