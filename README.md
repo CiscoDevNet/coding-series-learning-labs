@@ -21,6 +21,14 @@ No configuration necessary.
 
 * You can view these files using a Markdown editor.
 
+## Link checking
+
+You can run a link checker such as the Node-based [markdown-link-check](https://github.com/tcort/markdown-link-check) recursively through all labs by running:
+
+```
+$ cd labs
+$ find . -name \*.md -exec echo "File: {}" \; -exec markdown-link-check {} \;
+```
 
 ## Known issues
 
