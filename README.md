@@ -1,50 +1,53 @@
-# Cisco DevNet Learning Lab: git-intro
+## Cisco DevNet Learning Labs: 
 
-**Description**:  This is a tutorial that provides an introduction to coding.  It is written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+These self-paced interactive tutorials provide instructions for developers to .... 
 
-  - **Technology stack**: Built using Markdown.
-  - **Status**:  Beta status.
+Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
-## Dependencies
+Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
-* None
+Once approved, create a release that we use to publish in our Learning Labs system. 
 
-## Installation
+The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
 
-1. Clone (or fork then clone) this project
+## About these Learning Labs
 
-## Configuration
+For your repository, answer these questions: 
+* What does this set of learning lab do?
+* Why is this set of learning lab useful?
+* How do I get started?
+* Where can I get more help, if I need it?
 
-No configuration necessary.
+## Contributing
 
-## Usage
+Note that contributions to these learning modules are for public consumption, so you must ensure you have the rights to provide any contributed content.
 
-* You can view these files using a Markdown editor.
+Write your content in Markdown, and your wording and syntax is reviewed according to the [Cisco Style Guide](http://www-author.cisco.com/c/en/us/td/docs/general/style/guide/Latest/stylegd.html). (Link available on Cisco VPN only.)
 
-## Link checking
+#### Publishing Requirements
 
-You can run a link checker such as the Node-based [markdown-link-check](https://github.com/tcort/markdown-link-check) recursively through all labs by running:
+To create and publish a new lab, you must:
+- Add a new folder under labs
+- Create a JSON file with the same name as the labs/folder name
+- Create markdown files named 1.md, 2.md, and so on, and refer to those files in the JSON file
+- Ensure the JSON file contains page titles in addition to file references
+- Send a pull request, then get the files commited and merged to `master` by a DevNet reviewer
 
-```
-$ cd labs
-$ find . -name \*.md -exec echo "File: {}" \; -exec markdown-link-check {} \;
-```
+A DevNet reviewer then creates a release on the repository with the latest `master` and publishes through the admin interface.
 
-## Known issues
+#### Editors
 
-* None
+You can write Markdown in a plain text editor but there are many desktop and web-based options which allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for a few reasons:
+- Lightweight environment for coding (or writing Markdown)
+- Available on MAC, Linux or Windows
+- Github Client integration
+- Great Markdown preview features native in the editor
+- Intuitive operation and structure
 
-## Getting help
+You can validate a JSON file by using the [online formatter and validator](https://jsonformatter.curiousconcept.com).
 
-If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
+## Getting Involved
 
-## License
-[LICENSE](LICENSE)
+* If you'd like to make contributions, refer to [contributing.md](contributing.md).
+* If you're interested in creating a Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.
 
-## Getting involved
-
-* If you'd like to make contributions, feel free to make a request in the issue tracker.  If you're interested in creating a Cisco DevNet Learning Lab, contact Ashley Roach (asroach at cisco.com).
-
-## Credits and references
-
-* [Cisco DevNet Learning Labs](https://learninglabs.cisco.com)
