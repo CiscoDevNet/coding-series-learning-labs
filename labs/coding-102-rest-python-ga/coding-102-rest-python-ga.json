@@ -5,7 +5,7 @@
   "time": 35,
   "byod": true,
   "files": [
-    {"title": "Step 1. Find the APIC-EM API Resources",
+    {"title": "Step 1. Find the DNA Center API Resources",
      "file": "1.md"},
     {"title": "Step 2. Make your first REST call from Python",
      "file": "2.md"},

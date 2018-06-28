@@ -1,7 +1,7 @@
 {
   "labId": "coding-101-rest-basics-ga",
   "title": "Coding 101 - REST API Basics With APIC-EM",
-  "slug": "Learn the basics of REST APIs. Use POSTMAN and the API for the APIC-EM controller to learn how to make a REST API call.",
+  "slug": "Learn the basics of REST APIs. Use POSTMAN and the API for the DNA Center to learn how to make a REST API call.",
   "time": 20,
   "byod": true,
   "files": [
