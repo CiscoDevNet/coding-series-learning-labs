@@ -1,4 +1,4 @@
-## Cisco DevNet Learning Labs: Coding Series
+## Cisco DevNet Learning Labs: Coding Fundamentals
 
 These self-paced interactive tutorials provide an introducing to coding.
 
