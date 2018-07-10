@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs: Coding Fundamentals
 
-These self-paced interactive tutorials provide an introducing to coding.
+These self-paced interactive tutorials provide an introduction to coding.
 
 Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
