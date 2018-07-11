@@ -5,18 +5,24 @@
   "slug": "Learn how to parse and work with JSON data in the C++ language.",
   "time": "20",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-		{"title": "4.md"},
-		{"title": "5.md"},
-    {"title": "6.md"}
+    {"title": "Step 1: Create an executable in C++",
+      "file": "1.md"},
+    {"title": "Step 2: Adding cURL library support into the C++ application",
+      "file": "2.md"},
+    {"title": "Step 3: Getting JSON content",
+      "file": "3.md"},
+		{"title": "Step 4. Adding JSON library support into the C++ application",
+      "file": "4.md"},
+		{"title": "Step 5: Extract specific fields from JSON",
+      "file": "5.md"},
+    {"title": "Step 6: Find additional resources",
+      "file": "6.md"}
   ],
   "tags": [
 		{"title": "Coding"},
     {"title": "C++"},
     {"title": "JSON"},
-    {"title": "APIC-EM"},
+    {"title": "DNA Center"},
     {"title": "REST"},
     {"title": "Sandbox"}
   ],

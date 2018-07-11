@@ -5,12 +5,18 @@
   "slug": "Learn the basics of how to read data from a file using Python",
   "time": "10",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"}
+    {"title": "Step 1: Understand how to read and display data from a text file",
+      "file": "1.md"},
+    {"title": "Step 2: Read the contents of a file and display to the screen",
+      "file": "2.md"},
+    {"title": "Step 3: Read one line at a time",
+      "file": "3.md"},
+    {"title": "Step 4: Read the file one line at a time using a loop",
+      "file": "4.md"},
+    {"title": "Step 5: Using 'with' to read a file",
+      "file": "5.md"},
+    {"title": "Step 6. Read JSON from a file", 
+      "file": "6.md"}
   ],
   "tags": [
     {"title": "Coding"},

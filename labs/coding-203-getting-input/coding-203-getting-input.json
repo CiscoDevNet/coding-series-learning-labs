@@ -5,8 +5,10 @@
   "slug": "Learn the basics of how to get input from a user",
   "time": "5",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"}
+    {"title": "Step 1: Understand how to get input from a user",
+      "file": "1.md"},
+    {"title": "Step 2: Try it out!", 
+      "file": "2.md"}
   ],
   "tags": [
     {"title" : "Coding"},
