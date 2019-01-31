@@ -66,5 +66,6 @@
   ],
   "authors": [
   	{"name": "mcampos", "email": "marcocam@cisco.com"}
-  ]
+  ],
+  "redirectTo": "what-are-rest-apis"
 }
