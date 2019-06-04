@@ -1,11 +1,11 @@
 {
   "labId": "coding-101-rest-basics-ga",
-  "title": "Coding 101 - REST API Basics With APIC-EM",
+  "title": "Coding 101 - REST API Basics",
   "slug": "Learn the basics of REST APIs. Use POSTMAN and the API for the DNA Center to learn how to make a REST API call.",
   "time": 20,
   "byod": true,
   "files": [
-    {"title": "Coding 101 - REST API Basics with APIC-EM",
+    {"title": "Coding 101 - REST API Basics",
     "file": "1.md"},
     {"title": "Step 2. So what is a REST web service?",
      "file": "2.md"},
@@ -26,7 +26,6 @@
     {"title": "Coding"},
     {"title": "REST"},
     {"title": "Postman"},
-    {"title": "APIC-EM"},
     {"title": "JSON"},
     {"title": "Sandbox"}
   ],
