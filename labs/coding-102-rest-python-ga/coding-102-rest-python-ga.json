@@ -5,17 +5,17 @@
   "time": 35,
   "byod": true,
   "files": [
-    {"title": "Step 1. Find the DNA Center API Resources",
+    {"title": "Step 1: Find the DNA Center API Reference documentation",
      "file": "1.md"},
-    {"title": "Step 2. Make your first REST call from Python",
+    {"title": "Step 2: Make your first REST call from Python",
      "file": "2.md"},
-    {"title": "Step 3. Getting Information About the Network",
+    {"title": "Step 3: Get information about the network",
      "file": "3.md"},
-    {"title": "Step 4. Get Network Devices",
+    {"title": "Step 4: Get network devices",
      "file": "4.md"},
-    {"title": "Step 5. Build Network Topology",
+    {"title": "Step 5: Build network topology",
      "file": "5.md"},
-	  {"title": "Step 6. Build Network Topology and Graphical Display",
+	  {"title": "Step 6: Build network topology and graphical display",
      "file": "6.md"}
   ],
   "tags": [

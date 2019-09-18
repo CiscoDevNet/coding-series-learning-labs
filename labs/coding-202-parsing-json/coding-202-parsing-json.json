@@ -5,10 +5,14 @@
   "byod": true,
   "time": "15",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Step 1: Make an HTTP REST call with Python",
+      "file": "1.md"},
+    {"title": "Step 2: Use the JSON Python library", 
+      "file": "2.md"},
+    {"title": "Step 3: Iterate through a JSON array in Python",
+      "file":"3.md"},
+    {"title": "Step 4: Find additional resources",
+      "file": "4.md"}
   ],
   "tags": [
     {"title" : "Cloud"},

@@ -5,10 +5,14 @@
   "slug": "Learn the basics of how to use the logging module",
   "time": "15",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Step 1: Understand the Python logging module",
+      "file": "1.md"},
+    {"title": "Step 2: Experiment with logging and logging levels",
+      "file": "2.md"},
+    {"title": "Step 3: Log to a file",
+      "file": "3.md"},
+    {"title": "Step 4: Format the log messages",
+      "file": "4.md"}
   ],
   "tags": [
     {"title": "Coding"},

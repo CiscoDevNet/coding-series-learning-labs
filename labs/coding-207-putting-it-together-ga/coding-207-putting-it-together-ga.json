@@ -5,16 +5,20 @@
   "slug": "Use all of the Coding 201 skills to retrieve and save a list of devices of specific type.",
   "time": "20",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Step 1: Find the DNA Center API Reference documentation",
+      "file": "1.md"},
+    {"title": "Step 2: Configure logging and ask the user for input",
+      "file": "2.md"},
+    {"title": "Step 3: Use the DNA Center APIs to retrieve the device list",
+      "file": "3.md"},
+    {"title": "Step 4: Parse the JSON in the response and write the devices to a file",
+      "file": "4.md"}
   ],
   "tags": [
    	{"title": "Coding"},
     {"title": "Python"},
     {"title": "JSON"},
-    {"title": "APIC-EM"},
+    {"title": "DNA Center"},
     {"title": "REST"},
     {"title": "Sandbox"}
   ],

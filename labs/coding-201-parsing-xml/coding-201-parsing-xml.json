@@ -5,11 +5,16 @@
   "byod": true,
   "time": "20",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"}
+    {"title": "Step 1: Make an HTTP REST call with Python",
+      "file": "1.md"},
+    {"title": "Step 2. Understand the returned XML data",
+      "file": "2.md"},
+    {"title": "Step 3: Get XML elements in Python",
+      "file": "3.md"},
+    {"title": "Step 4: Get XML elements in Python",
+      "file": "4.md"},
+    {"title": "Step 5: Find additional resources", 
+      "file": "5.md"}
   ],
   "tags": [
     {"title": "Cloud"},

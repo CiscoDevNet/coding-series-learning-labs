@@ -5,18 +5,23 @@
   "slug": "Learn the basics of how to write data to a file using Python.",
   "time": "15",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"}
+    {"title": "Step 1: Understand how to write data to a file",
+      "file": "1.md"},
+    {"title": "Step 2: Write to a file",
+      "file": "2.md"},
+    {"title": "Step 3: Write to a file using 'with'",
+      "file": "3.md"},
+    {"title": "Step 4: Append to a file",
+      "file": "4.md"},
+    {"title": "Step 5: Save data from JSON to a file",
+      "file": "5.md"}
   ],
   "tags": [
     {"title": "Coding"},
     {"title": "Python"},
     {"title": "JSON"},
     {"title": "Sandbox"},
-	{"title": "APIC-EM"}
+	  {"title": "DNA Center"}
   ],
   "related": [
     {
