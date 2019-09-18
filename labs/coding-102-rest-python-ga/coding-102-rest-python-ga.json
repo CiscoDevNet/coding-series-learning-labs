@@ -62,5 +62,7 @@
   ],
   "authors": [
     {"name": "brtiller", "email": "brtiller@cisco.com"}
-  ]
+  ],
+  "active": true,
+  "redirectTo": "intro-python-part2"
 }
