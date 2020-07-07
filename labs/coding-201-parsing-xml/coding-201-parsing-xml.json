@@ -1,6 +1,6 @@
 {
-  "labId": "coding-201-parsing-xml",
-  "title": "Coding 201 - Parsing XML",
+  "labId": "parsing-xml",
+  "title": "Parsing XML",
   "slug": "Learn the basics of how to use parse XML results using Python.",
   "byod": true,
   "time": "20",
@@ -22,7 +22,7 @@
     {"title": "Parsing"},
     {"title": "XML"},
     {"title": "Python"},
-    {"title": "CMX"},
+    {"title": "ACI"},
     {"title": "Sandbox" }
   ],
   "related": [
