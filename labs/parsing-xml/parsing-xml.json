@@ -1,28 +1,29 @@
 {
-  "redirectTo": "parsing-json",
-  "labId": "coding-202-parsing-json",
-  "title": "Parsing JSON",
-  "slug": "Learn the basics of how to use parse JSON results using Python.",
+  "labId": "parsing-xml",
+  "title": "Parsing XML",
+  "slug": "Learn the basics of how to use parse XML results using Python.",
   "byod": true,
-  "time": "15",
+  "time": "20",
   "files": [
     {"title": "Step 1: Make an HTTP REST call with Python",
       "file": "1.md"},
-    {"title": "Step 2: Use the JSON Python library",
+    {"title": "Step 2. Understand the returned XML data",
       "file": "2.md"},
-    {"title": "Step 3: Iterate through a JSON dictionary in Python",
-      "file":"3.md"},
-    {"title": "Step 4: Find additional resources",
-      "file": "4.md"}
+    {"title": "Step 3: Get XML elements in Python",
+      "file": "3.md"},
+    {"title": "Step 4: Get XML elements in Python",
+      "file": "4.md"},
+    {"title": "Step 5: Find additional resources", 
+      "file": "5.md"}
   ],
   "tags": [
-    {"title" : "Cloud"},
-    {"title" : "Coding"},
+    {"title": "Cloud"},
+    {"title": "Coding"},
     {"title": "Parsing"},
-    {"title": "JSON"},
+    {"title": "XML"},
     {"title": "Python"},
     {"title": "ACI"},
-    {"title" : "Sandbox" }
+    {"title": "Sandbox" }
   ],
   "related": [
     {

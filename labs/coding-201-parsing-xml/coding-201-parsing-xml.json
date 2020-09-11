@@ -1,5 +1,6 @@
 {
-  "labId": "parsing-xml",
+  "redirectTo": "parsing-xml",
+  "labId": "coding-201-parsing-xml",
   "title": "Parsing XML",
   "slug": "Learn the basics of how to use parse XML results using Python.",
   "byod": true,
@@ -13,7 +14,7 @@
       "file": "3.md"},
     {"title": "Step 4: Get XML elements in Python",
       "file": "4.md"},
-    {"title": "Step 5: Find additional resources", 
+    {"title": "Step 5: Find additional resources",
       "file": "5.md"}
   ],
   "tags": [
