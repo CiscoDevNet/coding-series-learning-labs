@@ -1,6 +1,5 @@
 {
-  "redirectTo": "parsing-json",
-  "labId": "coding-202-parsing-json",
+  "labId": "parsing-json",
   "title": "Parsing JSON",
   "slug": "Learn the basics of how to use parse JSON results using Python.",
   "byod": true,
@@ -8,7 +7,7 @@
   "files": [
     {"title": "Step 1: Make an HTTP REST call with Python",
       "file": "1.md"},
-    {"title": "Step 2: Use the JSON Python library",
+    {"title": "Step 2: Use the JSON Python library", 
       "file": "2.md"},
     {"title": "Step 3: Iterate through a JSON dictionary in Python",
       "file":"3.md"},
